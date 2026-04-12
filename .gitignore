@@ -1,2 +1,4 @@
 # Dataset
 dataset/
+runs/
+yolo*.pt
